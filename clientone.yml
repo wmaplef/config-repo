@@ -1,0 +1,9 @@
+foo: bar!!!!!
+
+spring:
+  profiles: foo
+  foo: bar!!!!!
+
+spring:
+  profiles: bar
+  foo: foo!!!!!
